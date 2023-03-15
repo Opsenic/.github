@@ -1,3 +1,5 @@
 # DevConcrete
 
-https://devconcrete.org
+Business Leadership Platform 🚀
+
+https://devconcrete.io
