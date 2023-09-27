@@ -1,6 +1,6 @@
 # DevConcrete
 
-People-centric Leadership Platform
+People-centric OrgOps Platform
 
 * [🏡 Homepage](https://devconcrete.io)
 * [🚀 DevConcrete Framework](https://devconcrete.io/tech-organization-framework/)
