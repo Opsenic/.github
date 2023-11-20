@@ -1,7 +1,7 @@
-# DevConcrete
+# Opsenic
 
-Organizational Management System
+Organizational Operations Platform
 
-* [🏡 Homepage](https://devconcrete.io)
-* [🚀 DevConcrete Framework](https://devconcrete.io/tech-organization-framework/)
-* [✅ The Great Company Checklist](https://devconcrete.io/the-great-company-checklist/)
+* [🏡 Homepage](https://opsenic.com)
+* [🚀 Opsenic Framework](https://opsenic.com/tech-organization-framework/)
+* [✅ The Great Company Checklist](https://opsenic.com/the-great-company-checklist/)
